@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "azhar-portfolio-poc-expo-router",
+    "slug": "azhar-portfolio-poc-expo-router"
+  }
+}
